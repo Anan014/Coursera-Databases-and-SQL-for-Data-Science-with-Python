@@ -54,3 +54,4 @@ In this module, you will be introduced to the fundamentals of SQL and relational
 This module lays the groundwork for SQL usage in data science and sets the stage for more advanced database interactions.
 
 <!-- Basic SQL -->
+<!-- Hands-on Lab: INSERT, UPDATE, and DELETE -->
