@@ -55,3 +55,4 @@ This module lays the groundwork for SQL usage in data science and sets the stage
 
 <!-- Basic SQL -->
 <!-- Hands-on Lab: INSERT, UPDATE, and DELETE -->
+<!-- Done -->
