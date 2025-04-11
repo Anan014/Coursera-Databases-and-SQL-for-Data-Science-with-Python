@@ -52,5 +52,5 @@ In this module, you’ll deepen your understanding of **relational database conc
 
 > Continue to build foundational SQL skills for data science by mastering the management of tables and relational structures.
 
-<!-- Relational Database Concepts
-types of SQL statments (DDL vs DML) -->
+<!-- Relational Database Concepts -->
+<!-- types of SQL statments (DDL vs DML) -->
