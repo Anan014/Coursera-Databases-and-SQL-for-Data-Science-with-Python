@@ -54,3 +54,4 @@ In this module, you’ll deepen your understanding of **relational database conc
 
 <!-- Relational Database Concepts -->
 <!-- types of SQL statments (DDL vs DML) -->
+<!-- ALTER, DROP, TRUNCATE -->
