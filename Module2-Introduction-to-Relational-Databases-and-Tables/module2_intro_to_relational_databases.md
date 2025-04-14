@@ -56,3 +56,4 @@ In this module, you’ll deepen your understanding of **relational database conc
 <!-- types of SQL statments (DDL vs DML) -->
 <!-- ALTER, DROP, TRUNCATE -->
 <!-- Hands-on Lab: CREATE, ALTER, TRUNCATE, DROP -->
+<!-- Create and Load Tables using SQL Scripts -->
