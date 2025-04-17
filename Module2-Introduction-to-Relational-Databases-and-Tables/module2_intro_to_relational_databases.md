@@ -58,3 +58,5 @@ In this module, you’ll deepen your understanding of **relational database conc
 <!-- Hands-on Lab: CREATE, ALTER, TRUNCATE, DROP -->
 <!-- Create and Load Tables using SQL Scripts -->
 <!-- Relational Database Concepts and Tables -->
+
+<!-- Introduction to Relational Databases and Tables DONE -->
