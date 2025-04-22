@@ -37,3 +37,6 @@ This module covers the use of string patterns and ranges for data searches, as w
 #### Plugins (Total: 20 minutes)
 - SQL Cheat Sheet: Intermediate - LIKE, ORDER BY, GROUP BY – 5 minutes
 - SQL Cheat Sheet: FUNCTIONS and Implicit JOIN – 15 minutes
+
+
+<!-- Using String Patterns and Ranges -->
