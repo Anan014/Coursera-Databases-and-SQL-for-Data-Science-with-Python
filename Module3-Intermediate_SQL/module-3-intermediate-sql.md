@@ -43,3 +43,4 @@ This module covers the use of string patterns and ranges for data searches, as w
 <!-- soritng result sets -->
 <!-- Grouping Result Sets -->
 <!-- Built-in Database Functions -->
+<!-- Date and Time Built-in Functions -->
