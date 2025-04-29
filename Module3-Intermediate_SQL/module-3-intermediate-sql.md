@@ -45,3 +45,4 @@ This module covers the use of string patterns and ranges for data searches, as w
 <!-- Built-in Database Functions -->
 <!-- Date and Time Built-in Functions -->
 <!-- Sub-Queries and Nested Selects -->
+<!-- Working with Multiple Tables -->
