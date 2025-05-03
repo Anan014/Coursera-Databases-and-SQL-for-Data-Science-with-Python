@@ -49,3 +49,4 @@ This module covers the use of string patterns and ranges for data searches, as w
 <!-- Working with Multiple Tables -->
 <!-- Hands-on Lab: Working with Multiple Tables -->
 <!-- Hands-on Labs Using IBM Db2 -->
+<!-- Functions, Multiple Tables, and Sub-queries -->
